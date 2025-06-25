@@ -1,0 +1,17 @@
+entityDef fs:window
+{
+	"inherit"         "atdm:mover_door" 
+
+    "move_time"       "0.5"
+
+    "snd_open"        "chest_wood_open"
+    "snd_close"       "chest_wood_close"
+}
+
+entityDef fs:window_metal
+{
+	"inherit"         "fs:window" 
+
+    "snd_open"        "frob_chest_metal_open"
+    "snd_close"       "frob_chest_metal_close"
+}
