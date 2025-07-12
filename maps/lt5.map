@@ -24538,3 +24538,91 @@ patchDef3
 }
 }
 }
+// entity 363
+{
+"classname" "func_static"
+"name" "func_static_166"
+"origin" "-2523.7 -77.5018 591.546"
+"model" "models/map_specific/scaled/old_pallette_scaled1.ase"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 364
+{
+"classname" "func_static"
+"name" "func_static_167"
+"origin" "-2586.7 -79.4684 591.546"
+"model" "models/map_specific/scaled/old_pallette_scaled1.ase"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 365
+{
+"classname" "func_static"
+"name" "func_static_168"
+"origin" "-2536 -87 595.297"
+"model" "models/darkmod/containers/sack_pile01.lwo"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 366
+{
+"classname" "func_static"
+"name" "func_static_171"
+"origin" "-2530.7 -15.4684 591.546"
+"model" "models/map_specific/scaled/old_pallette_scaled1.ase"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 367
+{
+"classname" "func_static"
+"name" "func_static_172"
+"origin" "-2527.7 41.4981 591.546"
+"model" "models/map_specific/scaled/old_pallette_scaled1.ase"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 368
+{
+"classname" "func_static"
+"name" "func_static_1180"
+"model" "models/darkmod/containers/package_large.lwo"
+"origin" "-2524.24 78.99 596.25"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 369
+{
+"classname" "func_static"
+"name" "func_static_1181"
+"model" "models/darkmod/containers/package_large.lwo"
+"origin" "-2525.18 8.93 705.39"
+"rotation" "-0.998364 0.0571747 0 0.0571747 0.998364 0 0 0 -1"
+}
+// entity 370
+{
+"classname" "func_static"
+"name" "func_static_1182"
+"model" "models/darkmod/containers/package_large.lwo"
+"origin" "-2526.24 -4.26 596.25"
+"rotation" "-0.992952 -0.118519 4.94783e-06 0.118519 -0.992952 8.58083e-06 3.89596e-06 9.10676e-06 1"
+}
+// entity 371
+{
+"classname" "func_static"
+"name" "func_static_173"
+"origin" "-2531.7 94.5316 591.546"
+"model" "models/map_specific/scaled/old_pallette_scaled1.ase"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 372
+{
+"classname" "func_static"
+"name" "func_static_169"
+"origin" "-2650 -90 592.089"
+"model" "models/darkmod/containers/barrell_med_closed.lwo"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 373
+{
+"classname" "atdm:lamp_oil_wall_dirtymetal_lit"
+"name" "atdm_lamp_oil_wall_dirtymetal_lit_1"
+"origin" "-2600 -111.5 672"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+"set light_radius on flame" "96 96 96"
+}

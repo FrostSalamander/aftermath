@@ -2,14 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "160413" } 
-		KeyValue { "LastCameraAngle" "-13.8 259 0" } 
-		KeyValue { "LastCameraPosition" "-2856.15 -66.6409 487.041" } 
+		KeyValue { "EditTimeInSeconds" "161369" } 
+		KeyValue { "LastCameraAngle" "-13 284.2 0" } 
+		KeyValue { "LastCameraPosition" "-2592.46 33.3437 681.451" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/sfx/yellow_light_rays" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 160413 }
+		TotalSecondsEdited { 161369 }
 	}
 	SelectionSets
 	{
@@ -2073,6 +2073,17 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (func_static_164)
 		Node { 0 } // patch (Patch)
 		Node { 0 } // patch (Patch)
+		Node { 0 } // entity (func_static_166)
+		Node { 0 } // entity (func_static_167)
+		Node { 0 } // entity (func_static_168)
+		Node { 0 } // entity (func_static_171)
+		Node { 0 } // entity (func_static_172)
+		Node { 0 } // entity (func_static_1180)
+		Node { 0 } // entity (func_static_1181)
+		Node { 0 } // entity (func_static_1182)
+		Node { 0 } // entity (func_static_173)
+		Node { 0 } // entity (func_static_169)
+		Node { 0 } // entity (atdm_lamp_oil_wall_dirtymetal_lit_1)
 	}
 	SelectionGroups
 	{
@@ -2272,6 +2283,7 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 24618 { "" }
 		SelectionGroup 24620 { "" }
 		SelectionGroup 24621 { "" }
+		SelectionGroup 24623 { "" }
 	}
 	SelectionGroupNodeMapping
 	{
@@ -3242,5 +3254,8 @@ DarkRadiant Map Information File Version 2
 		Node { ( 345 ) ( 24621 ) } // entity (func_static_151)
 		Node { ( 346 ) ( 24621 ) } // entity (func_static_152)
 		Node { ( 347 ) ( 24621 ) } // entity (func_static_153)
+		Node { ( 368 ) ( 24623 ) } // entity (func_static_1180)
+		Node { ( 369 ) ( 24623 ) } // entity (func_static_1181)
+		Node { ( 370 ) ( 24623 ) } // entity (func_static_1182)
 	}
 }
