@@ -16741,7 +16741,7 @@ brushDef3
 brushDef3
 {
 ( 0 1 0 712 ) ( ( 0.0048828125 0 1.484374999999922 ) ( 0 0.0048828125 0.1875000000000249 ) ) "textures/darkmod/stone/brick/blocks_tealblue_dark" 0 0 0
-( 1 0 0 1912 ) ( ( 0.0048828125 0 -0.8203125 ) ( 0 0.0048828125 0.03125 ) ) "textures/darkmod/stone/brick/blocks_tealblue_dark" 0 0 0
+( 1 0 0 1912 ) ( ( 0.0048828125 0 -0.15625 ) ( 0 0.0048828125 0.1875 ) ) "textures/darkmod/stone/brick/blocks_tealblue_dark" 0 0 0
 ( 0 0 -1 448 ) ( ( 0.0048828125 0 -0.1953125 ) ( 0 0.0048828125 1.828125 ) ) "textures/darkmod/stone/brick/blocks_tealblue_dark" 0 0 0
 ( -1 0 0 -1928 ) ( ( 0.0048828125 0 -0.15625 ) ( 0 0.0048828125 0.1875 ) ) "textures/darkmod/stone/brick/blocks_tealblue_dark" 0 0 0
 ( 0 0 1 -552 ) ( ( 0.0048828125 0 -0.15625 ) ( 0 0.0048828125 0.1875 ) ) "textures/darkmod/stone/brick/blocks_tealblue_dark" 0 0 0
