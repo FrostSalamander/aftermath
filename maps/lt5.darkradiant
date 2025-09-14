@@ -2,14 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "201195" } 
-		KeyValue { "LastCameraAngle" "1.2 162.19 0" } 
-		KeyValue { "LastCameraPosition" "-1678.49 243.606 712.99" } 
+		KeyValue { "EditTimeInSeconds" "201260" } 
+		KeyValue { "LastCameraAngle" "-36.6 240.19 0" } 
+		KeyValue { "LastCameraPosition" "-1610.82 212.973 747.48" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/stone/brick/interlocking_angled_darkgrey" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 201195 }
+		TotalSecondsEdited { 201260 }
 	}
 	Layers
 	{
@@ -2523,6 +2523,9 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // patch (Patch)
 		Node { 0 } // patch (Patch)
 	}
+	SelectionSets
+	{
+	}
 	SelectionGroups
 	{
 		SelectionGroup 1 { "" }
@@ -3826,8 +3829,5 @@ DarkRadiant Map Information File Version 2
 		Node { ( 470 2020 ) ( 37 ) } // patch (Patch)
 		Node { ( 470 2021 ) ( 37 ) } // patch (Patch)
 		Node { ( 470 2022 ) ( 37 ) } // patch (Patch)
-	}
-	SelectionSets
-	{
 	}
 }
