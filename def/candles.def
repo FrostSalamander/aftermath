@@ -1,0 +1,6 @@
+entityDef fs:moveable_holder_round_plus_candle
+{
+	"inherit"                       "atdm:moveable_holder_round_plus_candle" 
+    "name_attach3"                  "flame"
+    "set light_radius on flame"     "64 64 64"
+}
