@@ -31236,15 +31236,15 @@ patchDef2
 {
 "classname" "atdm:moveable_chair_wood_1"
 "name" "atdm_moveable_chair_wood_1_1"
-"origin" "-1658 218 532.98"
-"rotation" "-0.87412 -0.48571 0 0.48571 -0.87412 0 0 0 1"
+"origin" "-1648 220 532.98"
+"rotation" "-0.55927 -0.828985 0 0.828985 -0.55927 0 0 0 1"
 }
 // entity 472
 {
 "classname" "atdm:moveable_chair_wood_1"
 "name" "atdm_moveable_chair_wood_1_2"
-"origin" "-1632 288 532.98"
-"rotation" "0.906653 -0.421878 0 0.421878 0.906653 0 0 0 1"
+"origin" "-1624 280 532.98"
+"rotation" "0.456543 -0.889702 0 0.889702 0.456543 0 0 0 1"
 }
 // entity 473
 {
