@@ -1,0 +1,7 @@
+shop_bell
+{
+	editor_displayFolder  map_specific
+	omnidirectional
+	sound/shop_bell.ogg
+	no_efx
+}
