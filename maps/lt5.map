@@ -4071,7 +4071,7 @@ brushDef3
 {
 ( 0 0 1 -280 ) ( ( 0.0048828125 0 2.273736754432321e-13 ) ( 0 0.0048828125 0.15625 ) ) "textures/darkmod/stone/brick/blocks_sepia_grey" 0 0 0
 ( 0 1 0 -688 ) ( ( 0.0048828125 -1.541965888026305e-18 -0.15625 ) ( 0 0.0048828125 0.234375 ) ) "textures/darkmod/stone/brick/blocks_sepia_grey" 0 0 0
-( 0 -0.8320503234863281 -0.5547001957893372 687.8282470703125 ) ( ( 0.0048828125 0 -1.13686837721616e-13 ) ( 0 0.004886578302830458 0.03843683749437332 ) ) "textures/darkmod/stone/brick/blocks_sepia_grey" 0 0 0
+( 0 -0.8320503234863281 -0.5547001957893372 687.8282470703125 ) ( ( 0.0048828125 0 7.105427357601002e-15 ) ( 0 0.0048828125 2.001953125 ) ) "textures/darkmod/stone/brick/blocks_sepia_grey" 0 0 0
 ( -1 0 0 -1536 ) ( ( 0.0048828125 0 0 ) ( 0 0.0048828125 0.3125 ) ) "textures/darkmod/stone/brick/blocks_sepia_grey" 0 0 0
 ( 1 0 0 1504 ) ( ( 0.0048828125 0 8.881784197001252e-15 ) ( 0 0.0048828125 0.3125 ) ) "textures/darkmod/stone/brick/blocks_sepia_grey" 0 0 0
 }
@@ -24967,7 +24967,7 @@ brushDef3
 "classname" "info_player_start"
 "name" "info_player_start_1"
 "angle" "-90.000000"
-"origin" "-1464 584 48"
+"origin" "-2148 612 128"
 }
 // entity 79
 {
@@ -35326,8 +35326,13 @@ brushDef3
 "model" "fs_door_sliding_1"
 "origin" "-2048 604 217"
 "rotate" "0 0 0"
-"translate" "0 0 100"
+"translate" "0 0 120"
 "used_by" "-"
+"frobable" "0"
+"snd_close" "silence"
+"snd_open" "silence"
+"snd_move" "drawbridge_opening_01"
+"move_time" "2"
 // primitive 0
 {
 brushDef3
@@ -38216,6 +38221,7 @@ patchDef3
 "texture" "lights/tdm_window_grating_2x3"
 "volumetric_dust" "0.008"
 "volumetric_light" "1"
+"areaLock" "origin"
 }
 // entity 637
 {
@@ -38365,6 +38371,7 @@ patchDef3
 "texture" "lights/tdm_window_grating_2x3"
 "volumetric_dust" "0.008"
 "volumetric_light" "1"
+"areaLock" "origin"
 }
 // entity 655
 {
@@ -38378,6 +38385,7 @@ patchDef3
 "texture" "lights/tdm_window_grating_2x3"
 "volumetric_dust" "0.008"
 "volumetric_light" "1"
+"areaLock" "origin"
 }
 // entity 656
 {
@@ -38463,4 +38471,22 @@ patchDef2
 )
 }
 }
+}
+// entity 660
+{
+"classname" "func_static"
+"name" "lever_panel2"
+"model" "models/darkmod/mechanical/switches/switch_rotate_backplate.ase"
+"origin" "-2144.38 568.609 183"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 661
+{
+"classname" "atdm:mover_lever"
+"name" "machine_lever2"
+"model" "models/darkmod/mechanical/switches/switch_rotate_lever.ase"
+"origin" "-2144.38 568.609 188"
+"rotate" "0 0 45"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+"target0" "fs_door_sliding_1"
 }
