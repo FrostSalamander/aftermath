@@ -24966,8 +24966,8 @@ brushDef3
 {
 "classname" "info_player_start"
 "name" "info_player_start_1"
-"angle" "-90.000000"
-"origin" "-2148 612 128"
+"angle" "-0.000000"
+"origin" "-2541 341 16.5"
 }
 // entity 79
 {
@@ -33806,7 +33806,9 @@ brushDef3
 "model" "fs_door_metal_3"
 "origin" "-2436 348 34"
 "rotate" "0 90 0"
-"used_by" "-"
+"used_by" "gate_key"
+"trigger_on_open" "1"
+"target0" "trigger_count_1"
 // primitive 0
 {
 brushDef3
@@ -38495,4 +38497,27 @@ patchDef2
 "model" "models/map_specific/scaled/old_pallette01_scaled1.ase"
 "origin" "-2519.93 -75.07 591.449"
 "rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 663
+{
+"classname" "atdm:key_simple"
+"name" "gate_key"
+"origin" "-2452.03 310.926 35"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 664
+{
+"classname" "atdm:target_callscriptfunction"
+"name" "atdm_target_callscriptfunction_1"
+"origin" "-2476 346 79"
+"foreach" "1"
+"call" "openGate"
+"target0" "atdm_streetlamp_square_lit_4"
+}
+// entity 665
+{
+"classname" "trigger_count"
+"name" "trigger_count_1"
+"origin" "-2472 328 79"
+"target0" "atdm_target_callscriptfunction_1"
 }

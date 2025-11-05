@@ -1,0 +1,20 @@
+void openGate(entity target, entity activator, entity callscriptfunction)
+{
+    // TODO: get name of key from the door used_by spawnarg to make it generic.
+
+    sys.println("frobbed gate");
+    sys.println("activator: " + activator.getName());
+
+    entity key = sys.getEntity("gate_key");
+    $player1.replaceInvItem(key, $null_entity);
+
+    // original frob action functionality
+    //frob_door(activator);
+
+}
+
+// main - keep at bottom
+void main()
+{
+    sys.waitFrame();
+}
