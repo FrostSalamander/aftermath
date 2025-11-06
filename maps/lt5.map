@@ -33806,9 +33806,10 @@ brushDef3
 "model" "fs_door_metal_3"
 "origin" "-2436 348 34"
 "rotate" "0 90 0"
-"used_by" "gate_key"
-"trigger_on_open" "1"
 "target0" "trigger_count_1"
+"trigger_on_open" "1"
+"used_by" "gate_key"
+"pickable" "0"
 // primitive 0
 {
 brushDef3
@@ -38509,9 +38510,9 @@ patchDef2
 {
 "classname" "atdm:target_callscriptfunction"
 "name" "atdm_target_callscriptfunction_1"
-"origin" "-2476 346 79"
-"foreach" "1"
 "call" "openGate"
+"foreach" "1"
+"origin" "-2476 346 79"
 "target0" "atdm_streetlamp_square_lit_4"
 }
 // entity 665
@@ -38519,5 +38520,17 @@ patchDef2
 "classname" "trigger_count"
 "name" "trigger_count_1"
 "origin" "-2472 328 79"
-"target0" "atdm_target_callscriptfunction_1"
+"target0" "atdm_target_itemremove_1"
+}
+// entity 666
+{
+"classname" "atdm:target_itemremove"
+"name" "atdm_target_itemremove_1"
+"origin" "-2489 362 79"
+"ammo_count" "0"
+"ammo_type" "-"
+"drop_in_world" "0"
+"stackable_class" "-"
+"stackable_count" "0"
+"unique_item" "gate_key"
 }
