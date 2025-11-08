@@ -5,3 +5,14 @@ shop_bell
 	sound/shop_bell.ogg
 	no_efx
 }
+
+power_high01_loop_fs
+{
+	volume		-20¦
+	looping 
+
+	editor_displayFolder	ambient/environmental
+
+	description "Made by mrDischarged/pakmannen"
+	sound/ambient/environmental/power_high01_loop.ogg
+}
