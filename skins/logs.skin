@@ -1,0 +1,8 @@
+unburnt_logs_small
+{
+	model "models/darkmod/fireplace/burntwood_small.ase"
+
+	"burntwood" "unburntwood"
+	"tdm_burnt_logs" "unburntwood"
+	"tdm_burning_logs" "unburntwood"
+}
