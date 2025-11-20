@@ -1,0 +1,11 @@
+
+// Frost_Salamander materials
+lights/metal_diamond_pattern3_half
+{
+    {
+        map textures/lights/metal_diamond_pattern3_half
+        colored
+        zeroClamp
+    }
+}
+
