@@ -5,6 +5,14 @@ void openGate(entity target, entity door, entity callscriptfunction)
     $player1.replaceInvItem(key, $null_entity);
 }
 
+void frobCandlestick(entity ent)
+{
+	entity candle = ent.getBindMaster();
+	candle.remove();
+
+	frob_item(ent);
+}
+
 // main - keep at bottom
 void main()
 {
