@@ -15,11 +15,3 @@ skin wood_ladder_darkbrown_dull
     
     textures/darkmod/metal/flat/simple_rough_grey01 textures/darkmod/wood/boards/rough_wood_darkbrown_dull
 }
-
-skin fs_light_fixture_iron_flat
-{
-    model models/darkmod/lights/extinguishable/light_fixture.ase
-
-    tdm_wallight2_noshadows       textures/darkmod/metal/flat/iron_flat
-    tdm_wallight2                 textures/darkmod/metal/flat/iron_flat
-}
