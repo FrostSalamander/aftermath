@@ -1,0 +1,7 @@
+stool/scribe_desk
+{
+	model "models/darkmod/furniture/seating/stool_rectangle_rough.lwo"
+	model "models/darkmod/furniture/seating/stool_round_rough.lwo"
+
+	"wtable1b" "tdm_pole_rough"
+}

@@ -2,14 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "432080" } 
-		KeyValue { "LastCameraAngle" "12 309.8 0" } 
-		KeyValue { "LastCameraPosition" "-2592.31 1189.48 558.914" } 
+		KeyValue { "EditTimeInSeconds" "432398" } 
+		KeyValue { "LastCameraAngle" "-22.8 286.8 0" } 
+		KeyValue { "LastCameraPosition" "-2543.39 1095.29 588.384" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/stone/brick/old_blocks_wornsmooth_dark" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 432080 }
+		TotalSecondsEdited { 432398 }
 	}
 	Layers
 	{
@@ -5799,6 +5799,20 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // patch (Patch)
 		Node { 0 } // patch (Patch)
 		Node { 0 } // patch (Patch)
+		Node { 0 } // entity (func_static_548)
+		Node { 0 } // entity (func_static_549)
+		Node { 0 } // entity (func_static_550)
+		Node { 0 } // entity (func_static_551)
+		Node { 0 } // entity (func_static_552)
+		Node { 0 } // entity (func_static_553)
+		Node { 0 } // entity (func_static_554)
+		Node { 0 } // entity (func_static_555)
+		Node { 0 } // entity (func_static_556)
+		Node { 0 } // entity (func_static_557)
+		Node { 0 } // entity (func_static_558)
+		Node { 0 } // entity (func_static_559)
+		Node { 0 } // entity (func_static_560)
+		Node { 0 } // entity (func_static_561)
 	}
 	SelectionGroups
 	{
