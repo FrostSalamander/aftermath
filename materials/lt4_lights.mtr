@@ -17,3 +17,17 @@ lights/tdm_pointedtop_big01_fs
         zeroClamp
     }
 }
+
+lights/tdm_window_grating_1x3_fs
+{
+
+	lightFalloffImage	makeintensity( textures/lights/brightround )
+	{
+		forceHighQuality
+		map		textures/lights/tdm_window_grating_1x3
+		colored
+		zeroClamp
+	}
+
+
+}
