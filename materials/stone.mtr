@@ -1,0 +1,13 @@
+textures/darkmod/stone/brick/cbrick2_sepia_blue
+{
+
+    stone
+    description	"vine_friendly"
+
+    qer_editorimage textures/darkmod/stone/brick/cbrick2_sepia_blue_ed
+    diffusemap      textures/darkmod/stone/brick/cbrick2_sepia_blue_d
+    bumpmap         textures/darkmod/stone/brick/cbrick2_sepia_grey_local
+//	specularmap		textures/darkmod/stone/brick/cbrick2_sepia_grey_s
+
+
+}
