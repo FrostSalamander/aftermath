@@ -64,7 +64,9 @@ skin fs_set01_railing_stone_natural_rough_old
 skin fs_mansion01_railing_rough_grey_dirty
 {
     model models/darkmod/architecture/handrails/mansion01_railing_seg1.lwo
+    model models/darkmod/architecture/handrails/mansion01_railing_single.lwo
     
     models/darkmod/wood/boards/wood_brown_walnut02_ns            textures/darkmod/stone/natural/rough_grey_dirty
     models/darkmod/wood/panels/thin_panels_with_trim_walnut_ns   textures/darkmod/stone/natural/rough_grey_dirty
+    textures/darkmod/wood/panels/thin_panels_with_trim_walnut    textures/darkmod/stone/natural/rough_grey_dirty
 }
