@@ -1,0 +1,9 @@
+hoe_sign
+{
+    wood
+    qer_editorimage textures/darkmod/custom/mounted_hoe_ed
+
+    diffusemap   textures/darkmod/custom/mounted_hoe
+    bumpmap      textures/darkmod/custom/mounted_hoe_local
+    specularmap  textures/darkmod/custom/mounted_hoe_s
+}
