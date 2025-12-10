@@ -1,0 +1,39 @@
+mounted_hoe_wood
+{
+    wood
+    qer_editorimage textures/darkmod/custom/mounted_hoe_ed
+
+    diffusemap   textures/darkmod/custom/mounted_hoe
+    bumpmap      textures/darkmod/custom/mounted_hoe_local
+    specularmap  textures/darkmod/custom/mounted_hoe_s
+}
+
+mounted_hoe_metal
+{
+    metal
+    qer_editorimage textures/darkmod/custom/mounted_hoe_ed
+
+    diffusemap   textures/darkmod/custom/mounted_hoe
+    bumpmap      textures/darkmod/custom/mounted_hoe_local
+    specularmap  textures/darkmod/custom/mounted_hoe_s
+}
+
+bar_hoe_wood
+{
+    wood
+    qer_editorimage textures/darkmod/custom/bar_hoe_ed
+
+    diffusemap   textures/darkmod/custom/bar_hoe
+    bumpmap      textures/darkmod/custom/bar_hoe_local
+    specularmap  textures/darkmod/custom/bar_hoe_s
+}
+
+bar_hoe_metal
+{
+    metal
+    qer_editorimage textures/darkmod/custom/bar_hoe_ed
+
+    diffusemap   textures/darkmod/custom/bar_hoe
+    bumpmap      textures/darkmod/custom/bar_hoe_local
+    specularmap  textures/darkmod/custom/bar_hoe_s
+}
