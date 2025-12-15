@@ -1,0 +1,21 @@
+textures/darkmod/fabric/coarse_cloth_fs
+{
+	surftype15
+	description "cloth"
+    twoSided
+
+    diffusemap	models/darkmod/props/textures/old_cloth_h
+    bumpmap  models/darkmod/props/textures/old_cloth_local
+}
+
+textures/darkmod/fabric/cloth_plain_grey_light_fs
+{
+
+    qer_editorimage	textures/darkmod/fabric/cloth_plain_grey_light_ed
+	surftype15
+	description "cloth"
+    twoSided
+
+    diffusemap      textures/darkmod/fabric/cloth_plain_grey_light
+    bumpmap         textures/darkmod/fabric/cloth_plain_grey_light_local
+}
