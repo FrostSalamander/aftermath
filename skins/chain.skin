@@ -1,0 +1,6 @@
+skin fs_chain_streetlamp
+{
+    model models/darkmod/dungeon/chain_tiny_highpoly_long.lwo
+    
+    textures/darkmod/metal/flat/simple_rough_grey01     tdm_streetlamp_metal
+}
