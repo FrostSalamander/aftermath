@@ -5,3 +5,11 @@ skin dirt_circle_snow
 
     textures/darkmod/nature/dirt/dirt_002_dark textures/darkmod/nature/snow/snow_rough01
 }
+
+skin dirt_circle_autumn
+{
+    model models/darkmod/junk/dirt_circle01.lwo
+    model models/darkmod/junk/dirt_edge01.lwo
+
+    textures/darkmod/nature/dirt/dirt_002_dark textures/darkmod/nature/dirt/dirt_leaves_gravel_autumnal
+}
