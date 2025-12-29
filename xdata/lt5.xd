@@ -12,8 +12,7 @@ readables/lt5/inn_rooms_ahead
 		""
 		""
 		""
-		"  Rooms across the way"
-		"      (with up arrow)"
+		"    Rooms across the way (arrow pointing up)"
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
 	"snd_page_turn"	: "readable_page_turn"
@@ -58,6 +57,25 @@ readables/lt5/inn_rooms_bar
 		""
 		"  The Mounted Hoe"
 		"      Rooms and Bar"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn"	: "readable_page_turn"
+}
+
+
+readables/lt5/inn_restaurant_rooms
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title"	:
+	{
+		""
+	}
+	"page1_body"	:
+	{
+		"Restaurant / Rooms upstairs"
+		""
+		"(arrow pointing upper left)"
 	}
 	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
 	"snd_page_turn"	: "readable_page_turn"
