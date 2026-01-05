@@ -2,14 +2,10 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "694998" } 
-		KeyValue { "LastCameraAngle" "-2.8 122.047 0" } 
-		KeyValue { "LastCameraPosition" "-2794.25 -46.841 253.047" } 
+		KeyValue { "EditTimeInSeconds" "695270" } 
+		KeyValue { "LastCameraAngle" "-3.8 273.447 0" } 
+		KeyValue { "LastCameraPosition" "-2692.8 -123.998 248.492" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/wood/boards/planks_floor_redwood_posh_scuffed" } 
-	}
-	MapEditTimings
-	{
-		TotalSecondsEdited { 694998 }
 	}
 	SelectionSets
 	{
@@ -8694,7 +8690,6 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (info_locationSeparator_12)
 		Node { 0 } // entity (func_static_54)
 		Node { 0 } // entity (func_static_55)
-		Node { 0 } // entity (atdm_lamp_oil_wall_rusty_lit_3)
 		Node { 0 } // entity (atdm_lamp_electric_outdoor_unattached_lit_11)
 		Node { 0 } // entity (func_static_56)
 		Node { 0 } // entity (func_emitter_21)
@@ -8775,9 +8770,14 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (func_static_125)
 		Node { 0 } // entity (atdm_liquid_water_11)
 		Node { 0 } // brush (Brush)
-		Node { 0 } // entity (atdm_afm_double_light_brass_flute_lit_1)
 		Node { 0 } // entity (atdm_afm_basic_light_rusted_white_lit_1)
 		Node { 0 } // entity (atdm_afm_basic_light_iron_clear_lit_1)
+		Node { 0 } // entity (atdm_afm_basic_light_iron_clear_lit_2)
+		Node { 0 } // entity (atdm_afm_tower_light_bronze_twirl_clear_lit_1)
+	}
+	MapEditTimings
+	{
+		TotalSecondsEdited { 695270 }
 	}
 	SelectionGroups
 	{
@@ -14255,21 +14255,21 @@ DarkRadiant Map Information File Version 2
 		Node { ( 1635 ) ( 2328 ) } // entity (func_emitter_20)
 		Node { ( 1639 ) ( 26244 ) } // entity (func_static_54)
 		Node { ( 1640 ) ( 26244 ) } // entity (func_static_55)
-		Node { ( 1642 ) ( 26231 26232 26230 ) } // entity (atdm_lamp_electric_outdoor_unattached_lit_11)
-		Node { ( 1643 ) ( 26231 26232 26230 ) } // entity (func_static_56)
-		Node { ( 1644 ) ( 26233 26230 ) } // entity (func_emitter_21)
-		Node { ( 1645 ) ( 26244 ) } // entity (func_static_63)
-		Node { ( 1649 ) ( 26251 ) } // entity (atdm_moveable_chair_wood_1_11)
-		Node { ( 1660 ) ( 26251 ) } // entity (atdm_moveable_chair_wood_1_13)
-		Node { ( 1661 ) ( 26251 ) } // entity (func_static_84)
-		Node { ( 1665 ) ( 26266 ) } // entity (atdm_liquid_water_3)
-		Node { ( 1666 ) ( 26271 ) } // entity (atdm_liquid_water_7)
-		Node { ( 1667 ) ( 26273 ) } // entity (atdm_lamp_oil_wall_hanging_dirtymetal_lit_10)
-		Node { ( 1668 ) ( 26273 ) } // entity (func_static_75)
-		Node { ( 1670 ) ( 329 ) } // entity (func_static_78)
-		Node { ( 1671 ) ( 329 ) } // entity (func_static_83)
-		Node { ( 1674 ) ( 26274 ) } // entity (atdm_lamp_oil_wall_hanging_dirtymetal_lit_14)
-		Node { ( 1675 ) ( 26274 ) } // entity (func_static_125)
-		Node { ( 1676 ) ( 26284 ) } // entity (atdm_liquid_water_11)
+		Node { ( 1641 ) ( 26231 26232 26230 ) } // entity (atdm_lamp_electric_outdoor_unattached_lit_11)
+		Node { ( 1642 ) ( 26231 26232 26230 ) } // entity (func_static_56)
+		Node { ( 1643 ) ( 26233 26230 ) } // entity (func_emitter_21)
+		Node { ( 1644 ) ( 26244 ) } // entity (func_static_63)
+		Node { ( 1648 ) ( 26251 ) } // entity (atdm_moveable_chair_wood_1_11)
+		Node { ( 1659 ) ( 26251 ) } // entity (atdm_moveable_chair_wood_1_13)
+		Node { ( 1660 ) ( 26251 ) } // entity (func_static_84)
+		Node { ( 1664 ) ( 26266 ) } // entity (atdm_liquid_water_3)
+		Node { ( 1665 ) ( 26271 ) } // entity (atdm_liquid_water_7)
+		Node { ( 1666 ) ( 26273 ) } // entity (atdm_lamp_oil_wall_hanging_dirtymetal_lit_10)
+		Node { ( 1667 ) ( 26273 ) } // entity (func_static_75)
+		Node { ( 1669 ) ( 329 ) } // entity (func_static_78)
+		Node { ( 1670 ) ( 329 ) } // entity (func_static_83)
+		Node { ( 1673 ) ( 26274 ) } // entity (atdm_lamp_oil_wall_hanging_dirtymetal_lit_14)
+		Node { ( 1674 ) ( 26274 ) } // entity (func_static_125)
+		Node { ( 1675 ) ( 26284 ) } // entity (atdm_liquid_water_11)
 	}
 }
