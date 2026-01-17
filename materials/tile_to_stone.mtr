@@ -1,0 +1,9 @@
+textures/darkmod/stone/flat/smooth/marble_pattern03_brownish_fs
+{
+    stone
+
+    qer_editorimage    textures/darkmod/stone/flat/smooth_marble_pattern03_brownish_ed
+    diffusemap         textures/darkmod/stone/flat/smooth_marble_pattern03_brownish
+    bumpmap            textures/darkmod/stone/flat/smooth_marble_pattern03_brownish_local
+    specularmap        textures/darkmod/stone/flat/smooth_marble_pattern03_brownish_s
+}
