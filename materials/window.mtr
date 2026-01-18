@@ -1,0 +1,27 @@
+textures/darkmod/window/pointedtop_big01/pointedtop_big01_barelylit_shadowcasting
+{
+	glass
+	noselfshadow
+	qer_editorimage	textures/darkmod/window/pointedtop_big01_barelylit_ed
+	diffusemap _black
+	{
+		blend add
+		map	textures/darkmod/window/pointedtop_big01_lit
+		rgb 0.2
+	}
+	frobstage_texture textures/darkmod/window/pointedtop_big01_lit 0.15 0.40
+}
+
+textures/darkmod/window/pointedtop_big01/pointedtop_big01_moonlit_shadowcasting
+{
+	glass
+	noselfshadow
+	qer_editorimage	textures/darkmod/window/pointedtop_big01_moonlit_ed
+	diffusemap _black
+	{
+		blend add
+		map	textures/darkmod/window/pointedtop_big01_moonlit
+		rgb 1
+	}
+	frobstage_texture textures/darkmod/window/pointedtop_big01_moonlit 0.15 0.40
+}
