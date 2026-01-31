@@ -21,3 +21,11 @@ skin dirt_circle_snowy_grass
 
     textures/darkmod/nature/dirt/dirt_002_dark textures/darkmod/nature/grass/snowy_grass
 }
+
+skin dirt_circle_ash_coals
+{
+    model models/darkmod/junk/dirt_circle01.lwo
+    model models/darkmod/junk/dirt_edge01.lwo
+
+    textures/darkmod/nature/dirt/dirt_002_dark textures/darkmod/nature/dirt/ash_coals_edge
+}
