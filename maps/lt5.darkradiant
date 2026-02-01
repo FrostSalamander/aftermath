@@ -2,9 +2,9 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "871493" } 
-		KeyValue { "LastCameraAngle" "-37.8 270.73 0" } 
-		KeyValue { "LastCameraPosition" "-2693.11 -295.919 261.042" } 
+		KeyValue { "EditTimeInSeconds" "871853" } 
+		KeyValue { "LastCameraAngle" "-25 169.53 0" } 
+		KeyValue { "LastCameraPosition" "-2875.97 -81.1581 246.616" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/wood/panels/trim_wood_grunge_flat_desat" } 
 	}
 	SelectionSets
@@ -12,7 +12,7 @@ DarkRadiant Map Information File Version 2
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 871493 }
+		TotalSecondsEdited { 871853 }
 	}
 	Layers
 	{
@@ -10399,6 +10399,12 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (func_static_1140)
 		Node { 0 } // entity (func_static_1141)
 		Node { 0 } // entity (func_static_1142)
+		Node { 0 } // entity (func_static_1143)
+		Node { 0 } // entity (func_static_1144)
+		Node { 0 } // entity (func_static_1145)
+		Node { 0 } // entity (func_static_1146)
+		Node { 0 } // entity (func_static_1147)
+		Node { 0 } // entity (func_static_1148)
 	}
 	SelectionGroups
 	{
@@ -11955,6 +11961,7 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 26949 { "" }
 		SelectionGroup 26950 { "" }
 		SelectionGroup 26951 { "" }
+		SelectionGroup 26952 { "" }
 	}
 	SelectionGroupNodeMapping
 	{
@@ -17081,5 +17088,7 @@ DarkRadiant Map Information File Version 2
 		Node { ( 2089 ) ( 26896 ) } // entity (light_fireflames_small_2)
 		Node { ( 2091 ) ( 26905 ) } // entity (func_static_137)
 		Node { ( 2092 ) ( 26916 ) } // entity (func_static_1095)
+		Node { ( 2106 ) ( 26952 ) } // entity (func_static_1147)
+		Node { ( 2107 ) ( 26952 ) } // entity (func_static_1148)
 	}
 }
