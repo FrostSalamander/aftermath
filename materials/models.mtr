@@ -1,0 +1,36 @@
+JCrClth
+{
+//CC BY-NC-SA 3.0 model and material by TDash
+	surftype15
+	description "cloth"
+	noShadows
+
+	{
+		blend diffusemap
+		map 	models/darkmod/props/textures/JCrClth
+		rgb 1
+	}
+
+}
+
+JBottls2_reflect
+//CC BY-NC-SA 3.0 model and material by TDash
+{
+glass
+	
+	
+	{
+		blend diffusemap
+		map 	models/darkmod/props/textures/JBottls2_d
+		rgb .9
+	}
+	{
+        forceHighQuality
+        blend gl_dst_color, gl_src_color
+        cubeMap env/iron3
+        texgen reflect
+        red 7
+		green 6
+		blue 6
+    }
+}
