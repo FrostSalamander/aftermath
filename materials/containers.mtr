@@ -1,0 +1,10 @@
+models/darkmod/props/textures/wine_barrel
+{
+		wood
+		//noshadows
+		//noselfshadow
+
+		bumpmap          models/darkmod/props/textures/wine_barrel_local
+		diffusemap       models/darkmod/props/textures/wine_barrel
+		specularmap      models/darkmod/props/textures/wine_barrel_s
+}
