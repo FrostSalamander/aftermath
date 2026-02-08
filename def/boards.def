@@ -1,0 +1,9 @@
+entityDef fs:moveable_board
+{
+	"inherit"		"atdm:moveable_base" 
+
+	"mass"			"1"
+	"friction"		"0.3"
+	"snd_bounce"	"tdm_impact_wood"
+}
+
