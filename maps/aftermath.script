@@ -1,4 +1,8 @@
+// Entity names
 string BEGGAR = "beggar";
+string COG_KEY = "cog_key";
+string COG_LOCKED = "cog_locked";
+string INVENTOR_PANEL = "fs_door_wood_58";
 
 void openGate(entity target, entity door, entity callscriptfunction)
 {
@@ -18,6 +22,19 @@ void frobCandlestick(entity ent)
 void removeAI()
 {
     sys.getEntity(BEGGAR).remove();
+}
+
+void useCog(entity lock)
+{
+    entity cog = sys.getEntity(COG_KEY);
+    entity cogLocked = sys.getEntity(COG_LOCKED);
+    entity inventorPanel = sys.getEntity(INVENTOR_PANEL);
+
+    $player1.replaceInvItem(cog, $null_entity);
+    cogLocked.setOrigin('-2695.25 -553 491');
+    lock.startSound("snd_unlock", SND_CHANNEL_UNUSED, false);
+    inventorPanel.Open();
+    inventorPanel.setFrobable(1);
 }
 
 // main - keep at bottom
