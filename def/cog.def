@@ -13,7 +13,7 @@ entityDef atdm:afm_cog
 
 	//Inventory stuff
 	"inv_name"			"Cog"
-	"inv_icon"			"guis/assets/hud/inventory_icons/loot_gear_golden" // GUI icon.
+	"inv_icon"			"guis/assets/hud/inventory_icons/gear_cog" // GUI icon.
 	"inv_droppable"		"0" 
 	"inv_category"		"Special"
 	"inv_stackable"		"0"
