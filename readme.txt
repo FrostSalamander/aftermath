@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------------
-FM Title           : The Lieutentant 5
-Author             : Frost_Salamander
+FM Title           : Aftermath
+Author             : Frost_Salamander and Kerry000
 Build Date         : 
 Version            : 1
 --------------------------------------------------------------------------------------

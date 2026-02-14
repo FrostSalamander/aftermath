@@ -1,4 +1,4 @@
-Title: The Lieutenant 5
+Title: Aftermath
 Description: 
 Version: 0.1-beta
-Author: Frost_Salamander
+Author: Frost_Salamander and Kerry000
