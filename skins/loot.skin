@@ -1,0 +1,13 @@
+skin fs_gear_tiny_silver
+{
+    model models/darkmod/mechanical/gears/gear_tiny_1.lwo
+    
+    mechanical_debris_001     textures/darkmod/metal/flat/silver01
+}
+
+skin fs_gear_tiny_gold
+{
+    model models/darkmod/mechanical/gears/gear_tiny_1.lwo
+    
+    mechanical_debris_001     textures/darkmod/metal/flat/gold01
+}

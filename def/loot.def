@@ -1,0 +1,10 @@
+atdm:fs_loot_gear_tiny_gold
+{
+	"inherit"			    "atdm:loot_base"
+	"editor_usage"			"tiny golden gear"
+	"model" 				"models/darkmod/mechanical/gears/gear_tiny_1.lwo"
+	"skin"  				"fs_gear_tiny_gold"
+	"inv_loot_value"		"20"
+	"inv_loot_type"			"2"
+	"inv_icon"				"guis/assets/hud/inventory_icons/loot_gear_golden"
+}
