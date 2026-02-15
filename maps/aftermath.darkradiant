@@ -2,17 +2,10 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "974525" } 
-		KeyValue { "LastCameraAngle" "-36 8.972 0" } 
-		KeyValue { "LastCameraPosition" "-2570.27 -582.058 708.068" } 
-		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/paint_paper/gold_pedals_red" } 
-	}
-	MapEditTimings
-	{
-		TotalSecondsEdited { 974525 }
-	}
-	SelectionSets
-	{
+		KeyValue { "EditTimeInSeconds" "978601" } 
+		KeyValue { "LastCameraAngle" "2 171.372 0" } 
+		KeyValue { "LastCameraPosition" "-2810.87 -293.094 522.562" } 
+		KeyValue { "LastShaderClipboardMaterial" "afm_switch_fancy_bronze" } 
 	}
 	Layers
 	{
@@ -12287,30 +12280,6 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (func_static_2132)
 		Node { 0 } // entity (func_static_2133)
 		Node { 0 } // entity (func_static_2134)
-		Node { 0 } // entity (func_static_2135)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // entity (atdm_mover_lever_1)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // entity (func_static_2136)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // entity (atdm_mover_lever_2)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // patch (Patch)
 		Node { 0 } // entity (atdm_afm_seashell_light_bronze_groovy_clear_lit_3)
 		Node { 0 } // entity (func_static_2137)
 		Node { 0 } // brush (Brush)
@@ -12345,18 +12314,6 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // brush (Brush)
 		Node { 0 } // patch (Patch)
 		Node { 0 } // patch (Patch)
-		Node { 0 } // entity (func_static_2140)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // entity (atdm_mover_lever_4)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // patch (Patch)
 		Node { 0 } // entity (atdm_afm_basic_light_bronze_clear_lit_3)
 		Node { 0 } // entity (func_static_2141)
 		Node { 0 } // brush (Brush)
@@ -12383,18 +12340,6 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (func_static_2144)
 		Node { 0 } // entity (func_static_2147)
 		Node { 0 } // entity (func_static_2146)
-		Node { 0 } // entity (atdm_mover_lever_5)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // entity (func_static_2148)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
 		Node { 0 } // entity (func_static_2149)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
@@ -12431,18 +12376,6 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (atdm_moveable_chair_dining_2_red_2)
 		Node { 0 } // entity (atdm_oil_lamp_desk5_brass_1)
 		Node { 0 } // entity (func_static_2158)
-		Node { 0 } // entity (func_static_2159)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // entity (atdm_mover_lever_6)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // patch (Patch)
 		Node { 0 } // entity (atdm_afm_seashell_light_brass_groovy_white_lit_5)
 		Node { 0 } // entity (func_static_2160)
 		Node { 0 } // entity (func_static_2161)
@@ -12475,18 +12408,6 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // brush (Brush)
 		Node { 0 } // entity (func_static_2172)
 		Node { 0 } // entity (atdm_afm_seashell_light_brass_floral_lit_1)
-		Node { 0 } // entity (func_static_2173)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // entity (atdm_mover_lever_7)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // brush (Brush)
-		Node { 0 } // patch (Patch)
-		Node { 0 } // patch (Patch)
 		Node { 0 } // entity (fs_door_sliding_11)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // entity (func_static_2174)
@@ -12559,6 +12480,26 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // brush (Brush)
 		Node { 0 } // entity (atdm_target_set_frobable_3)
 		Node { 0 } // brush (Brush)
+		Node { 0 } // entity (func_static_2191)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // entity (afm_switch_fancy_base)
+		Node { 0 } // entity (afm_switch_fancy_knob)
+		Node { 0 } // entity (afm_switch_fancy_base1)
+		Node { 0 } // entity (afm_switch_fancy_knob1)
+		Node { 0 } // entity (afm_switch_fancy_base3)
+		Node { 0 } // entity (afm_switch_fancy_knob3)
+		Node { 0 } // entity (afm_switch_fancy_knob2)
+		Node { 0 } // entity (afm_switch_fancy_base2)
+		Node { 0 } // entity (afm_switch_fancy_knob4)
+		Node { 0 } // entity (afm_switch_fancy_base4)
+		Node { 0 } // entity (afm_switch_fancy_knob5)
+		Node { 0 } // entity (afm_switch_fancy_base5)
+	}
+	MapEditTimings
+	{
+		TotalSecondsEdited { 978601 }
 	}
 	SelectionGroups
 	{
@@ -12581,6 +12522,7 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 17 { "" }
 		SelectionGroup 18 { "" }
 		SelectionGroup 19 { "" }
+		SelectionGroup 20 { "" }
 		SelectionGroup 21 { "" }
 		SelectionGroup 22 { "" }
 		SelectionGroup 23 { "" }
@@ -12596,6 +12538,7 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 33 { "" }
 		SelectionGroup 34 { "" }
 		SelectionGroup 35 { "" }
+		SelectionGroup 36 { "" }
 		SelectionGroup 38 { "" }
 		SelectionGroup 39 { "" }
 		SelectionGroup 40 { "" }
@@ -14411,27 +14354,25 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 27459 { "" }
 		SelectionGroup 27460 { "" }
 		SelectionGroup 27461 { "" }
-		SelectionGroup 27463 { "" }
-		SelectionGroup 27464 { "" }
 		SelectionGroup 27465 { "" }
 		SelectionGroup 27466 { "" }
-		SelectionGroup 27467 { "" }
 		SelectionGroup 27468 { "" }
 		SelectionGroup 27469 { "" }
-		SelectionGroup 27471 { "" }
 		SelectionGroup 27472 { "" }
 		SelectionGroup 27473 { "" }
 		SelectionGroup 27474 { "" }
-		SelectionGroup 27475 { "" }
 		SelectionGroup 27476 { "" }
 		SelectionGroup 27477 { "" }
 		SelectionGroup 27478 { "" }
 		SelectionGroup 27479 { "" }
-		SelectionGroup 27480 { "" }
 		SelectionGroup 27481 { "" }
 		SelectionGroup 27482 { "" }
 		SelectionGroup 27483 { "" }
 		SelectionGroup 27484 { "" }
+		SelectionGroup 27487 { "" }
+		SelectionGroup 27488 { "" }
+		SelectionGroup 27492 { "" }
+		SelectionGroup 27493 { "" }
 	}
 	SelectionGroupNodeMapping
 	{
@@ -20800,77 +20741,80 @@ DarkRadiant Map Information File Version 2
 		Node { ( 3093 ) ( 27458 ) } // entity (func_static_2081)
 		Node { ( 3094 ) ( 27458 ) } // entity (func_static_2082)
 		Node { ( 3134 ) ( 27460 ) } // entity (func_static_2127)
-		Node { ( 3151 ) ( 27463 ) } // entity (func_static_2135)
-		Node { ( 3152 ) ( 27463 ) } // entity (atdm_mover_lever_1)
-		Node { ( 3153 ) ( 27464 ) } // entity (func_static_2136)
-		Node { ( 3154 ) ( 27464 ) } // entity (atdm_mover_lever_2)
-		Node { ( 3156 9125 ) ( 27465 ) } // brush (Brush)
-		Node { ( 3156 9126 ) ( 27465 ) } // brush (Brush)
-		Node { ( 3165 ) ( 27466 ) } // entity (func_static_2139)
-		Node { ( 3166 ) ( 27466 ) } // entity (atdm_mover_lever_3)
-		Node { ( 3167 ) ( 27467 ) } // entity (func_static_2140)
-		Node { ( 3168 ) ( 27467 ) } // entity (atdm_mover_lever_4)
-		Node { ( 3174 9158 ) ( 27468 ) } // brush (Brush)
-		Node { ( 3174 9159 ) ( 27468 ) } // brush (Brush)
-		Node { ( 3174 9160 ) ( 27468 ) } // brush (Brush)
-		Node { ( 3174 9161 ) ( 27468 ) } // brush (Brush)
-		Node { ( 3174 9162 ) ( 27468 ) } // brush (Brush)
-		Node { ( 3174 9163 ) ( 27468 ) } // brush (Brush)
-		Node { ( 3179 ) ( 27471 ) } // entity (atdm_mover_lever_5)
-		Node { ( 3180 ) ( 27471 ) } // entity (func_static_2148)
-		Node { ( 3181 9183 ) ( 27469 ) } // brush (Brush)
-		Node { ( 3181 9184 ) ( 27469 ) } // brush (Brush)
-		Node { ( 3181 9185 ) ( 27469 ) } // brush (Brush)
-		Node { ( 3181 9186 ) ( 27469 ) } // brush (Brush)
-		Node { ( 3183 9187 ) ( 27472 ) } // brush (Brush)
-		Node { ( 3183 9188 ) ( 27472 ) } // brush (Brush)
-		Node { ( 3183 9189 ) ( 27472 ) } // brush (Brush)
-		Node { ( 3183 9190 ) ( 27472 ) } // brush (Brush)
-		Node { ( 3183 9191 ) ( 27472 ) } // brush (Brush)
-		Node { ( 3190 9194 ) ( 27473 ) } // brush (Brush)
-		Node { ( 3190 9195 ) ( 27473 ) } // brush (Brush)
-		Node { ( 3190 9196 ) ( 27473 ) } // brush (Brush)
-		Node { ( 3190 9197 ) ( 27473 ) } // brush (Brush)
-		Node { ( 3191 9198 ) ( 27474 ) } // brush (Brush)
-		Node { ( 3191 9199 ) ( 27474 ) } // brush (Brush)
-		Node { ( 3191 9200 ) ( 27474 ) } // brush (Brush)
-		Node { ( 3191 9201 ) ( 27474 ) } // brush (Brush)
-		Node { ( 3198 ) ( 27475 ) } // entity (func_static_2159)
-		Node { ( 3199 ) ( 27475 ) } // entity (atdm_mover_lever_6)
-		Node { ( 3214 9223 ) ( 27479 ) } // brush (Brush)
-		Node { ( 3214 9224 ) ( 27479 ) } // brush (Brush)
-		Node { ( 3214 9225 ) ( 27479 ) } // brush (Brush)
-		Node { ( 3214 9226 ) ( 27479 ) } // brush (Brush)
-		Node { ( 3217 ) ( 27480 ) } // entity (func_static_2173)
-		Node { ( 3218 ) ( 27480 ) } // entity (atdm_mover_lever_7)
-		Node { ( 3222 9241 ) ( 27481 ) } // patch (Patch)
-		Node { ( 3222 9242 ) ( 27481 ) } // patch (Patch)
-		Node { ( 3222 9243 ) ( 27481 ) } // patch (Patch)
-		Node { ( 3224 ) ( 2627 ) } // entity (func_static_2531)
-		Node { ( 3225 ) ( 2627 ) } // entity (func_static_2532)
-		Node { ( 3227 ) ( 27483 ) } // entity (func_static_2181)
-		Node { ( 3228 ) ( 27483 ) } // entity (func_static_2179)
-		Node { ( 3229 ) ( 27483 ) } // entity (func_static_2180)
-		Node { ( 3230 ) ( 27483 ) } // entity (func_static_2178)
-		Node { ( 3235 9244 ) ( 27324 27328 ) } // brush (Brush)
-		Node { ( 3235 9245 ) ( 27324 27328 ) } // brush (Brush)
-		Node { ( 3235 9246 ) ( 27325 27328 ) } // brush (Brush)
-		Node { ( 3235 9247 ) ( 27327 27328 ) } // brush (Brush)
-		Node { ( 3235 9248 ) ( 27324 27328 ) } // brush (Brush)
-		Node { ( 3235 9249 ) ( 27325 27328 ) } // brush (Brush)
-		Node { ( 3235 9250 ) ( 27326 27328 ) } // brush (Brush)
-		Node { ( 3235 9251 ) ( 27326 27328 ) } // brush (Brush)
-		Node { ( 3235 9252 ) ( 27327 27328 ) } // brush (Brush)
-		Node { ( 3239 9263 ) ( 27461 ) } // brush (Brush)
-		Node { ( 3239 9264 ) ( 27461 ) } // brush (Brush)
-		Node { ( 3239 9265 ) ( 27461 ) } // brush (Brush)
-		Node { ( 3239 9266 ) ( 27461 ) } // brush (Brush)
-		Node { ( 3239 9267 ) ( 27461 ) } // brush (Brush)
-		Node { ( 3239 9268 ) ( 27461 ) } // brush (Brush)
-		Node { ( 3239 9269 ) ( 27461 ) } // brush (Brush)
-		Node { ( 3244 9270 ) ( 27484 ) } // brush (Brush)
-		Node { ( 3244 9271 ) ( 27484 ) } // brush (Brush)
-		Node { ( 3244 9272 ) ( 27484 ) } // brush (Brush)
-		Node { ( 3244 9273 ) ( 27484 ) } // brush (Brush)
+		Node { ( 3152 9105 ) ( 27465 ) } // brush (Brush)
+		Node { ( 3152 9106 ) ( 27465 ) } // brush (Brush)
+		Node { ( 3161 ) ( 27466 ) } // entity (func_static_2139)
+		Node { ( 3162 ) ( 27466 ) } // entity (atdm_mover_lever_3)
+		Node { ( 3168 9128 ) ( 27468 ) } // brush (Brush)
+		Node { ( 3168 9129 ) ( 27468 ) } // brush (Brush)
+		Node { ( 3168 9130 ) ( 27468 ) } // brush (Brush)
+		Node { ( 3168 9131 ) ( 27468 ) } // brush (Brush)
+		Node { ( 3168 9132 ) ( 27468 ) } // brush (Brush)
+		Node { ( 3168 9133 ) ( 27468 ) } // brush (Brush)
+		Node { ( 3173 9143 ) ( 27469 ) } // brush (Brush)
+		Node { ( 3173 9144 ) ( 27469 ) } // brush (Brush)
+		Node { ( 3173 9145 ) ( 27469 ) } // brush (Brush)
+		Node { ( 3173 9146 ) ( 27469 ) } // brush (Brush)
+		Node { ( 3175 9147 ) ( 27472 ) } // brush (Brush)
+		Node { ( 3175 9148 ) ( 27472 ) } // brush (Brush)
+		Node { ( 3175 9149 ) ( 27472 ) } // brush (Brush)
+		Node { ( 3175 9150 ) ( 27472 ) } // brush (Brush)
+		Node { ( 3175 9151 ) ( 27472 ) } // brush (Brush)
+		Node { ( 3182 9154 ) ( 27473 ) } // brush (Brush)
+		Node { ( 3182 9155 ) ( 27473 ) } // brush (Brush)
+		Node { ( 3182 9156 ) ( 27473 ) } // brush (Brush)
+		Node { ( 3182 9157 ) ( 27473 ) } // brush (Brush)
+		Node { ( 3183 9158 ) ( 27474 ) } // brush (Brush)
+		Node { ( 3183 9159 ) ( 27474 ) } // brush (Brush)
+		Node { ( 3183 9160 ) ( 27474 ) } // brush (Brush)
+		Node { ( 3183 9161 ) ( 27474 ) } // brush (Brush)
+		Node { ( 3204 9173 ) ( 27479 ) } // brush (Brush)
+		Node { ( 3204 9174 ) ( 27479 ) } // brush (Brush)
+		Node { ( 3204 9175 ) ( 27479 ) } // brush (Brush)
+		Node { ( 3204 9176 ) ( 27479 ) } // brush (Brush)
+		Node { ( 3210 9181 ) ( 27481 ) } // patch (Patch)
+		Node { ( 3210 9182 ) ( 27481 ) } // patch (Patch)
+		Node { ( 3210 9183 ) ( 27481 ) } // patch (Patch)
+		Node { ( 3212 ) ( 2627 ) } // entity (func_static_2531)
+		Node { ( 3213 ) ( 2627 ) } // entity (func_static_2532)
+		Node { ( 3215 ) ( 27483 ) } // entity (func_static_2181)
+		Node { ( 3216 ) ( 27483 ) } // entity (func_static_2179)
+		Node { ( 3217 ) ( 27483 ) } // entity (func_static_2180)
+		Node { ( 3218 ) ( 27483 ) } // entity (func_static_2178)
+		Node { ( 3223 9184 ) ( 27324 27328 ) } // brush (Brush)
+		Node { ( 3223 9185 ) ( 27324 27328 ) } // brush (Brush)
+		Node { ( 3223 9186 ) ( 27325 27328 ) } // brush (Brush)
+		Node { ( 3223 9187 ) ( 27327 27328 ) } // brush (Brush)
+		Node { ( 3223 9188 ) ( 27324 27328 ) } // brush (Brush)
+		Node { ( 3223 9189 ) ( 27325 27328 ) } // brush (Brush)
+		Node { ( 3223 9190 ) ( 27326 27328 ) } // brush (Brush)
+		Node { ( 3223 9191 ) ( 27326 27328 ) } // brush (Brush)
+		Node { ( 3223 9192 ) ( 27327 27328 ) } // brush (Brush)
+		Node { ( 3227 9203 ) ( 27461 ) } // brush (Brush)
+		Node { ( 3227 9204 ) ( 27461 ) } // brush (Brush)
+		Node { ( 3227 9205 ) ( 27461 ) } // brush (Brush)
+		Node { ( 3227 9206 ) ( 27461 ) } // brush (Brush)
+		Node { ( 3227 9207 ) ( 27461 ) } // brush (Brush)
+		Node { ( 3227 9208 ) ( 27461 ) } // brush (Brush)
+		Node { ( 3227 9209 ) ( 27461 ) } // brush (Brush)
+		Node { ( 3232 9210 ) ( 27484 ) } // brush (Brush)
+		Node { ( 3232 9211 ) ( 27484 ) } // brush (Brush)
+		Node { ( 3232 9212 ) ( 27484 ) } // brush (Brush)
+		Node { ( 3232 9213 ) ( 27484 ) } // brush (Brush)
+		Node { ( 3239 ) ( 27487 ) } // entity (afm_switch_fancy_base)
+		Node { ( 3240 ) ( 27487 ) } // entity (afm_switch_fancy_knob)
+		Node { ( 3241 ) ( 27488 ) } // entity (afm_switch_fancy_base1)
+		Node { ( 3242 ) ( 27488 ) } // entity (afm_switch_fancy_knob1)
+		Node { ( 3243 ) ( 27492 ) } // entity (afm_switch_fancy_base3)
+		Node { ( 3244 ) ( 27492 ) } // entity (afm_switch_fancy_knob3)
+		Node { ( 3245 ) ( 27493 ) } // entity (afm_switch_fancy_knob2)
+		Node { ( 3246 ) ( 27493 ) } // entity (afm_switch_fancy_base2)
+		Node { ( 3247 ) ( 20 ) } // entity (afm_switch_fancy_knob4)
+		Node { ( 3248 ) ( 20 ) } // entity (afm_switch_fancy_base4)
+		Node { ( 3249 ) ( 36 ) } // entity (afm_switch_fancy_knob5)
+		Node { ( 3250 ) ( 36 ) } // entity (afm_switch_fancy_base5)
+	}
+	SelectionSets
+	{
 	}
 }
