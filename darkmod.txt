@@ -1,4 +1,4 @@
 Title: Aftermath
-Description: 
-Version: 0.1-beta
+Version: 0.1
 Author: Frost_Salamander and Kerry000
+Required TDM Version: 2.14
