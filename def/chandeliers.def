@@ -1,8 +1,24 @@
+afm:bhm_chandelier_01
+{
+	"inherit"				            "atdm:static_electric_light_lit_quiet_base"
+	"model"								"models/darkmod/lights/non-extinguishable/bhm_chandelier_01.lwo"
+	"editor_displayFolder"				"Lights/Model Lights, Static/Switchable/Electric/Indoor"
+	
+	"skin"								"bhm_chand_lit"
+	"skin_lit"							"bhm_chand_lit"
+	"skin_unlit"						"bhm_chand_unlit"
+	
+	//"texture"							"lights/biground1_squarelamp_snd"
+	"editor_usage"						"Switchable entity version of bhm_chandelier_01."
+	"light_center"						"0 0 -96"
+	"noshadows"							"0"
+	"noshadows_lit"						"1"
+}
+
 afm:bhm_chandelier_02
 {
 	"inherit"				            "atdm:static_electric_light_lit_quiet_base"
 	"model"								"models/darkmod/lights/non-extinguishable/bhm_chandelier_02.lwo"
-	"editor_setKeyValue model"			"models/darkmod/lights/non-extinguishable/bhm_chandelier_02.lwo"
 	"editor_displayFolder"				"Lights/Model Lights, Static/Switchable/Electric/Indoor"
 	
 	"skin"								"bhm_chand_lit"
@@ -12,7 +28,23 @@ afm:bhm_chandelier_02
 	//"texture"							"lights/biground1_squarelamp_snd"
 	"editor_usage"						"Switchable entity version of bhm_chandelier_02."
 	"light_center"						"0 0 -44"
-	//"editor_setKeyValue light_center"	"0 0 -44"
+	"noshadows"							"0"
+	"noshadows_lit"						"1"
+}
+
+afm:bhm_chandelier_03
+{
+	"inherit"				            "atdm:static_electric_light_lit_quiet_base"
+	"model"								"models/darkmod/lights/non-extinguishable/bhm_chandelier_03.lwo"
+	"editor_displayFolder"				"Lights/Model Lights, Static/Switchable/Electric/Indoor"
+	
+	"skin"								"bhm_chand_lit"
+	"skin_lit"							"bhm_chand_lit"
+	"skin_unlit"						"bhm_chand_unlit"
+	
+	//"texture"							"lights/biground1_squarelamp_snd"
+	"editor_usage"						"Switchable entity version of bhm_chandelier_03."
+	"light_center"						"0 0 -20"
 	"noshadows"							"0"
 	"noshadows_lit"						"1"
 }

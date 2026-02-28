@@ -1,0 +1,17 @@
+skin bhm_chand_unlit {
+
+    model models/darkmod/lights/non-extinguishable/bhm_chandelier_01.lwo
+    model models/darkmod/lights/non-extinguishable/bhm_chandelier_02.lwo
+    model models/darkmod/lights/non-extinguishable/bhm_chandelier_03.lwo
+
+    textures/bhm_chand_bulb textures/bhm_chand_bulb_unlit
+}
+
+skin bhm_chand_lit {
+
+    model models/darkmod/lights/non-extinguishable/bhm_chandelier_01.lwo
+    model models/darkmod/lights/non-extinguishable/bhm_chandelier_02.lwo
+    model models/darkmod/lights/non-extinguishable/bhm_chandelier_03.lwo
+
+    textures/bhm_chand_bulb textures/bhm_chand_bulb_glow
+}
