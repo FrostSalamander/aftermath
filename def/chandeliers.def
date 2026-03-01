@@ -10,7 +10,7 @@ afm:bhm_chandelier_01
 	
 	//"texture"							"lights/biground1_squarelamp_snd"
 	"editor_usage"						"Switchable entity version of bhm_chandelier_01."
-	"light_center"						"0 0 -96"
+	"light_center"						"0 0 -88"
 	"noshadows"							"0"
 	"noshadows_lit"						"1"
 }
