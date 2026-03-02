@@ -89,4 +89,15 @@ skin fs_mansion01_railing_rough_grey_dirty
     textures/darkmod/wood/panels/thin_panels_with_trim_walnut    textures/darkmod/stone/natural/rough_grey_dirty
 }
 
+//////////////
+// rail1.lwo
+//////////////
+
+skin fs_rail1_polished_redbrown
+{
+    model models/darkmod/architecture/handrails/rail1.lwo
+    
+    rail1   textures/darkmod/wood/boards/polished_redbrown
+}
+
 
