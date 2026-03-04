@@ -28,6 +28,13 @@ lights/tdm_window_grating_1x3_fs
 		colored
 		zeroClamp
 	}
+}
 
-
+lights/tdm_roundtop_diamond_pattern01
+{
+	{
+		forceHighQuality
+		map		textures/lights/roundtop_diamond_pattern01_light
+		zeroClamp
+	}
 }
