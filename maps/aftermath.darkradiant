@@ -2,14 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "1186612" } 
+		KeyValue { "EditTimeInSeconds" "1186680" } 
 		KeyValue { "LastCameraAngle" "0 -90 0" } 
 		KeyValue { "LastCameraPosition" "-1144 -1273 28" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/wood/boards/planks_floor_natural_parallax" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 1186612 }
+		TotalSecondsEdited { 1186680 }
 	}
 	SelectionSets
 	{
@@ -27564,5 +27564,7 @@ DarkRadiant Map Information File Version 2
 		Node { 2 } // entity (atdm_readable_immobile_paper01_5)
 		Node { 2 } // entity (func_static_2612)
 		Node { 2 } // entity (func_static_2619)
+		Node { 2 } // entity (func_static_2620)
+		Node { 2 } // entity (func_static_2621)
 	}
 }
