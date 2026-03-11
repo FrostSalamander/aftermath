@@ -1,0 +1,13 @@
+curtain_scaled_green_new
+{
+
+    model models/map_specific/scaled/window01_curtains01_right_scaled1.ase
+    model models/map_specific/scaled/window01_curtains01_left_scaled1.ase
+    model models/map_specific/scaled/window01_curtains01_top_scaled1.ase
+
+	"curtain01" "curtain01_green"
+	"curtain_hang01_red" "curtain_hang01_green"
+	"curtain01_red" "curtain01_green"
+
+
+}
