@@ -35,6 +35,17 @@ lights/tdm_roundtop_diamond_pattern01
 	{
 		forceHighQuality
 		map		textures/lights/roundtop_diamond_pattern01_light
+		colored
+		zeroClamp
+	}
+}
+
+lights/tdm_roundtop_white01
+{
+	{
+		forceHighQuality
+		map		textures/lights/roundtop_white01_light
+		colored
 		zeroClamp
 	}
 }

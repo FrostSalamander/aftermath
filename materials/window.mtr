@@ -25,3 +25,27 @@ textures/darkmod/window/pointedtop_big01/pointedtop_big01_moonlit_shadowcasting
 	}
 	frobstage_texture textures/darkmod/window/pointedtop_big01_moonlit 0.15 0.40
 }
+
+textures/darkmod/window/roundtop_white01/roundtop_white01_moonlit_fs
+{
+
+    noshadows
+    translucent
+    glass
+	twoSided
+    forceoverlays
+    sort nearest
+	forceOpaque
+
+	qer_editorimage textures/darkmod/window/roundtop_white01_moonlit_ed
+	diffusemap textures/darkmod/window/roundtop_white01
+	{
+		blend add
+		map 		textures/darkmod/window/roundtop_white01_moonlit_overlay
+		rgb 0.25
+	}
+	bumpmap 		textures/darkmod/window/roundtop_white01_local
+	specularmap 	textures/darkmod/window/roundtop_white01_s
+
+
+}
