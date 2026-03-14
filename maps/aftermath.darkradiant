@@ -2,14 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "1230224" } 
+		KeyValue { "EditTimeInSeconds" "1230824" } 
 		KeyValue { "LastCameraAngle" "-40 -129.53 0" } 
 		KeyValue { "LastCameraPosition" "828 -1040 736" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/decals/lace/lace_square_01" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 1230224 }
+		TotalSecondsEdited { 1230824 }
 	}
 	SelectionGroups
 	{
@@ -11752,18 +11752,18 @@ DarkRadiant Map Information File Version 2
 		Node { ( 4200 ) ( 29105 29108 ) } // entity (func_static_2852)
 		Node { ( 4201 ) ( 29105 29108 ) } // entity (func_static_2851)
 		Node { ( 4202 ) ( 29105 29108 ) } // entity (func_static_2850)
-		Node { ( 4210 ) ( 29106 ) } // entity (afm_switch_fancy_base18)
-		Node { ( 4211 ) ( 29106 ) } // entity (afm_switch_fancy_knob18)
-		Node { ( 4212 ) ( 29108 ) } // entity (func_static_2853)
-		Node { ( 4213 ) ( 29110 ) } // entity (func_static_2854)
-		Node { ( 4214 ) ( 29110 ) } // entity (func_static_2856)
-		Node { ( 4215 ) ( 29110 ) } // entity (func_static_2857)
-		Node { ( 4216 ) ( 29111 ) } // entity (func_static_2858)
-		Node { ( 4217 ) ( 29111 ) } // entity (func_static_2859)
-		Node { ( 4218 ) ( 29111 ) } // entity (func_static_2860)
-		Node { ( 4219 ) ( 29112 ) } // entity (func_static_2861)
-		Node { ( 4220 ) ( 29112 ) } // entity (func_static_2862)
-		Node { ( 4221 ) ( 29112 ) } // entity (func_static_2863)
+		Node { ( 4208 ) ( 29106 ) } // entity (afm_switch_fancy_base18)
+		Node { ( 4209 ) ( 29106 ) } // entity (afm_switch_fancy_knob18)
+		Node { ( 4210 ) ( 29108 ) } // entity (func_static_2853)
+		Node { ( 4211 ) ( 29110 ) } // entity (func_static_2854)
+		Node { ( 4212 ) ( 29110 ) } // entity (func_static_2856)
+		Node { ( 4213 ) ( 29110 ) } // entity (func_static_2857)
+		Node { ( 4214 ) ( 29111 ) } // entity (func_static_2858)
+		Node { ( 4215 ) ( 29111 ) } // entity (func_static_2859)
+		Node { ( 4216 ) ( 29111 ) } // entity (func_static_2860)
+		Node { ( 4217 ) ( 29112 ) } // entity (func_static_2861)
+		Node { ( 4218 ) ( 29112 ) } // entity (func_static_2862)
+		Node { ( 4219 ) ( 29112 ) } // entity (func_static_2863)
 	}
 	Layers
 	{
@@ -28512,8 +28512,6 @@ DarkRadiant Map Information File Version 2
 		Node { 2 } // entity (info_location_69)
 		Node { 2 } // entity (info_location_70)
 		Node { 2 } // entity (afm_bhm_chandelier_01_6)
-		Node { 2 } // entity (afm_bhm_chandelier_02_2)
-		Node { 2 } // entity (afm_bhm_chandelier_02_6)
 		Node { 2 } // entity (afm_switch_fancy_base18)
 		Node { 2 } // entity (afm_switch_fancy_knob18)
 		Node { 2 } // entity (func_static_2853)
